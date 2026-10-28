@@ -6,6 +6,7 @@
     🎮 Music • Games • Anime • Code • Art 
 </pre>
 <br>
+<img src="assets/kyubey.gif" height="40" />
 
 <br><br>
 </div>
